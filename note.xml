@@ -1,0 +1,6 @@
+<note>
+<to>${PORT1}</to>
+<from>${PORT2}</from>
+<heading>${PORT3}</heading>
+<body>${PORT4}</body>
+</note>
